@@ -1,0 +1,29 @@
+{
+  "name": "0.1.0",
+  "version": "0.1.0",
+  "description": "Chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardcad02/Servidor-Node-HTTP.git"
+  },
+  "keywords": [
+    "Chat",
+    "Server"
+  ],
+  "author": "Cristian Cárdenas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardcad02/Servidor-Node-HTTP/issues"
+  },
+  "homepage": "https://github.com/leonardcad02/Servidor-Node-HTTP#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  }
+}
